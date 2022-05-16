@@ -14,7 +14,7 @@ As you may know, the BERT model input is a combination of 3 embeddings.
 
 
 **Setup**
-Click on Download [problems] to obtain the assignment jupyter notebook.
-Go to https://colab.research.google.com/.
-Switch to Upload tab, choose assignment_4.ipynb and click upload.
-Now You’re ready to go.
+- Click on Download [problems] to obtain the assignment jupyter notebook.
+- Go to https://colab.research.google.com/.
+- Switch to Upload tab, choose assignment_4.ipynb and click upload.
+- Now You’re ready to go.
