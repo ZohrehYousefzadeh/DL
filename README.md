@@ -1,4 +1,4 @@
-# Assignment #3 - Transformer and BERT/ParsBERT
+# Assignment #3 - Transformers and BERT/ParsBERT
 
 
 Deep Learning / Spring 1401, Shahid Beheshti University
@@ -41,7 +41,7 @@ Before going more further into code, let us introduce ParsBERT.
 Is a monolingual language model based on Google's BERT architecture. This model is pre-trained on large Persian corpora with various writing styles from numerous subjects (e.g., scientific, novels, news, ...) with more than 3.9M documents, 73M sentences, and 1.3B words. For more information about ParsBERT, please check out the article: arXiv:2005.12515.
 
 <br>
-So, now you have a little understanding of BERT in total, we need to know how to use ParsBERT in our project. In the following tutorial, I would like to implement a fine-tuned model on the Sentiment Analysis task for TensorFlow and PyTorch. Stay tuned!
+So, now you have a little understanding of BERT in total, we need to know how to use ParsBERT in our project. In the following tutorial, I would like to implement a fine-tuned model on the *Sentiment Analysis* task for *PyTorch*. Stay tuned!
 
 
 <br><br>
@@ -49,5 +49,5 @@ So, now you have a little understanding of BERT in total, we need to know how to
 **Setup**
 - Click on Download [problems] to obtain the assignment jupyter notebook.
 - Go to https://colab.research.google.com/.
-- Switch to Upload tab, choose bert.ipynb and click upload.
+- Switch to Upload tab, choose assignment3.ipynb and click upload.
 - Now You’re ready to go.
