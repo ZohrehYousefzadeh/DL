@@ -47,7 +47,7 @@ So, now you have a little understanding of BERT in total, we need to know how to
 <br><br>
 
 **Setup**
-- Click on Download [problems] to obtain the assignment jupyter notebook.
+- Download assignment3.ipynb to obtain the assignment jupyter notebook.
 - Go to https://colab.research.google.com/.
 - Switch to Upload tab, choose assignment3.ipynb and click upload.
 - Now You’re ready to go.
