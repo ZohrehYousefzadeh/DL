@@ -38,7 +38,7 @@ Before going more further into code, let us introduce ParsBERT.
 <br>
 
 ## ParsBERT
-ParsBERT is a monolingual language model based on Google's BERT architecture. This model is pre-trained on large Persian corpora with various writing styles from numerous subjects (e.g., scientific, novels, news, ...) with more than 3.9M documents, 73M sentences, and 1.3B words. For more information about ParsBERT, please check out the article: arXiv:2005.12515.
+ParsBERT is a monolingual language model based on Google's BERT architecture. This model is pre-trained on large Persian corpora with various writing styles from numerous subjects (e.g., scientific, novels, news, ...) with more than 3.9M documents, 73M sentences, and 1.3B words. For more information about ParsBERT, please check out the article: [DOI: 10.1007/s11063-021-10528-4](https://link.springer.com/article/10.1007/s11063-021-10528-4)
 
 <br>
 So, now you have a little understanding of BERT in total, we need to know how to use ParsBERT in our project. In the following tutorial, I would like to implement a fine-tuned model on the Sentiment Analysis task for PyTorch. Stay tuned!
